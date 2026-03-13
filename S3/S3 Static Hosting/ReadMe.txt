@@ -4,6 +4,26 @@ The goal of this lab was to deploy a static website using Amazon S3.
 This demonstrates how AWS can host static content without traditional web servers.
 
 
+## AWS Services Used
+
+- Amazon S3
+- AWS IAM
+
+## Architecture
+
+User → S3 Static Website Endpoint → Website Files
+
+
+## Implementation Steps
+
+1. Created an S3 bucket with a globally unique name.
+2. Disabled the default public access block settings.
+3. Uploaded static website files including index.html.
+4. Enabled Static Website Hosting in bucket properties.
+5. Configured a bucket policy allowing public read access.
+6. Accessed the S3 website endpoint to verify the deployment.
+
+
 
 - We start by going over to S3 and creating a bucket
 - *** IF you registered a domain, set the bucket name accordingly
