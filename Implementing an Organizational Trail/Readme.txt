@@ -1,4 +1,4 @@
-n this [DEMO] lesson we will implement a Organizational CloudTrail for the Animals4life organisation.
+In this Lab we will implement a Organizational CloudTrail for the Animals4life organisation.
 
 This CloudTrail will be configured for all regions and set to log global services events.
 
