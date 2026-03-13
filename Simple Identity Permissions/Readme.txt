@@ -15,6 +15,6 @@ the 2nd will login to an IAM user called 'sally' for testing.
 - Sally didn’t have access to any of the S3 buckets we created, and had to change her username when we logged in
 - We then gave her permission to the 2 buckets and were able to upload a picture to both of them
 - After deleting the policy she couldn’t view or interact with the buckets
-- Then we gave her an inline policy that gives her access to the S3 buckets but denies Access to the Catgifs Bucket
+- Then we gave her an inline policy that gives her access to the S3 buckets but denies Access to the Catpics Bucket
  
  
