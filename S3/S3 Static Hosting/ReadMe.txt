@@ -1,6 +1,8 @@
 
 Purpose:
-we use s3 to create a static website showing Animals4life TOP 10 animals
+The goal of this lab was to deploy a static website using Amazon S3.
+This demonstrates how AWS can host static content without traditional web servers.
+
 
 
 - We start by going over to S3 and creating a bucket
